@@ -1,0 +1,32 @@
+
+h1{
+
+color: #F47920;
+background:  #005883 ;
+width: 280px;
+height: 130px;
+
+	font-size: 50px;
+
+	position: center 
+center
+	  }
+
+h2{
+
+	color: black;
+
+
+	font-size: 30px;
+
+
+}
+
+#video,video {
+
+	margin: 0 auto;
+	padding-top: 40px;
+	width: 400px;
+	height:150px;
+	position: left;
+}
